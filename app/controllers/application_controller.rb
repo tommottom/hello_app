@@ -6,3 +6,5 @@ class ApplicationController < ActionController::Base
     render text: "¡Hola, mundo!"
   end
 end
+
+#applicationコントローラのhello#actionのrenderメソッドをviewに反映させる
